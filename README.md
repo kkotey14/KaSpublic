@@ -2,6 +2,8 @@
 
 KaS is a personal finance app for tracking money in one place.
 
+KaS mobile is coming soon to the App Store and Google Play.
+
 It offers:
 - transaction tracking
 - monthly budgets
