@@ -13,3 +13,7 @@ It offers:
 - charts and financial summaries
 - statement import support
 - an in-app AI assistant for quick finance actions and questions
+
+![KaS landing page](assets/landing-page.png)
+
+![KaS login page](assets/login-page.png)
