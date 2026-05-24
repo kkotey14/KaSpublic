@@ -1,87 +1,71 @@
 # KaS Finance
 
-KaS Finance is a full-stack financial management platform designed to help users securely manage transactions, monitor financial activity, and access real-time financial data through a modern responsive interface.
+KaS Finance is a modern personal finance dashboard for tracking balances, transactions, budgets, goals, bills, subscriptions, and AI-assisted financial activity in one responsive web app.
 
-## Live Demo
-🔗 https://kasfianance.com
+[Live Demo](https://kasfianance.com)
 
----
+## Highlights
 
-# Features
+- Secure sign in and account creation flow
+- Dashboard overview for bank balance, savings, and credit card debt
+- Transaction tracking with filters for type, category, month, tag, and amount
+- Budget monitoring by spending category
+- Recurring subscription tracker with monthly equivalents and due dates
+- Finance assistant for quick natural-language transaction entry
+- Responsive mobile authentication screens
+- Public showcase repository with sensitive production details removed
 
-- Secure user authentication
-- Real-time transaction synchronization
-- Protected API routes
-- Push notification support
-- Role-based authentication
-- Responsive dashboard interface
-- PostgreSQL database integration
-- Secure backend workflows
+## Screenshots
 
----
+### Mobile Experience
 
-# Tech Stack
+<p>
+  <img src="assets/mobile-sign-in.png" alt="KaS Finance mobile sign in screen" width="260" />
+  <img src="assets/mobile-sign-up.png" alt="KaS Finance mobile sign up screen" width="260" />
+</p>
 
-## Frontend
+### Dashboard
+
+![KaS Finance dashboard overview](assets/dashboard-overview.png)
+
+### Transactions
+
+![KaS Finance transaction management screen](assets/transactions.png)
+
+### Budget Assistant
+
+![KaS Finance budget view with finance assistant](assets/budget-assistant.png)
+
+### Subscriptions
+
+![KaS Finance subscriptions tracker](assets/subscriptions.png)
+
+## Tech Stack
+
+### Frontend
+
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 
-## Backend
+### Backend
+
 - Supabase
 - PostgreSQL
 - Node.js
 
-## Deployment & Tools
+### Deployment & Tools
+
 - Vercel
 - GitHub
 - GitHub Actions
 
----
+## Architecture
 
-# Screenshots
+KaS Finance uses a full-stack architecture with a Next.js client, Supabase authentication and backend services, PostgreSQL persistence, protected API routes, and real-time data workflows for financial activity.
 
-## Dashboard
-(Add screenshot here)
-
-## Transaction Management
-(Add screenshot here)
-
-## Mobile Responsive Design
-(Add screenshot here)
-
----
-
-# Architecture Overview
-
-KaS Finance follows a full-stack architecture consisting of:
-
-- Frontend client built with Next.js and TypeScript
-- Supabase authentication and backend services
-- PostgreSQL database for persistent storage
-- Secure API routes for protected operations
-- Real-time synchronization between client and backend
-
----
-
-# Security
-
-This repository is a public showcase version of KaS Finance and does not include production secrets, sensitive infrastructure configurations, or private backend services.
-
----
-
-# Future Improvements
-
-- AI-powered financial insights
-- Advanced analytics dashboard
-- Recurring transaction automation
-- Budget forecasting tools
-- Multi-user collaboration support
-
----
-
-# Local Setup
+## Local Setup
 
 ```bash
 git clone https://github.com/kkotey14/KaSpublic.git
@@ -90,13 +74,23 @@ npm install
 npm run dev
 ```
 
-Create a `.env.local` file for environment variables.
+Create a `.env.local` file with the required environment variables before running the app locally.
 
----
+## Security
 
-# Author
+This repository is a public showcase version of KaS Finance. Production secrets, sensitive infrastructure settings, and private backend configuration are not included.
+
+## Roadmap
+
+- AI-powered financial insights
+- Advanced analytics dashboard
+- Recurring transaction automation
+- Budget forecasting tools
+- Multi-user collaboration support
+
+## Author
 
 Kingsley Kotey
 
-Portfolio: https://kkotey.com  
-LinkedIn: https://linkedin.com/in/kingsley-kotey-476649278
+- Portfolio: [kkotey.com](https://kkotey.com)
+- LinkedIn: [Kingsley Kotey](https://linkedin.com/in/kingsley-kotey-476649278)
