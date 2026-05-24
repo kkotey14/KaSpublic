@@ -24,7 +24,7 @@ KaS Finance is a modern personal finance dashboard for tracking balances, transa
   <img src="assets/mobile-sign-up.png" alt="KaS Finance mobile sign up screen" width="260" />
 </p>
 
-### Dashboard
+### Subscriptions
 
 ![KaS Finance dashboard overview](assets/dashboard-overview.png)
 
