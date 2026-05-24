@@ -28,15 +28,15 @@ KaS Finance is a modern personal finance dashboard for tracking balances, transa
 
 ![KaS Finance dashboard overview](assets/dashboard-overview.png)
 
-### Transactions
+### Budget
 
 ![KaS Finance transaction management screen](assets/transactions.png)
 
-### Budget Assistant
+### Transactions
 
 ![KaS Finance budget view with finance assistant](assets/budget-assistant.png)
 
-### Subscriptions
+### Dashboard
 
 ![KaS Finance subscriptions tracker](assets/subscriptions.png)
 
