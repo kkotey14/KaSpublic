@@ -2,7 +2,7 @@
 
 KaS Finance is a modern personal finance dashboard for tracking balances, transactions, budgets, goals, bills, subscriptions, and AI-assisted financial activity in one responsive web app.
 
-[Live Demo](https://kasfianance.com)
+[Live Site](https://kasfianance.com)
 
 ## Highlights
 
